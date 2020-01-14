@@ -2,7 +2,7 @@
 
 Model: https://www.thingiverse.com/thing:2174107
 Slicer: Flashprint
-Filament: Blue PL from Flashforge
+Filament: Blue PLA from Flashforge
 
 Settings:
 - Defaults, no raft

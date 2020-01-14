@@ -2,7 +2,7 @@
 
 Model: https://www.thingiverse.com/thing:3781911
 Slicer: Simplify3d
-Filament: White PL from Flashforge
+Filament: White PLA from Flashforge
 
 Settings:
 - various quality resolution

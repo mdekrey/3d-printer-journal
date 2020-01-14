@@ -1,0 +1,1 @@
+As [#1](./01-Lighthouse-mount.md).

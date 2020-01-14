@@ -1,0 +1,1 @@
+As [yesterday's #1](../13/01-Lighthouse-mount.md).

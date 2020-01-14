@@ -2,7 +2,7 @@
 
 Model: https://www.thingiverse.com/thing:2051721
 Slicer: Simplify3d
-Filament: White PL from Flashforge
+Filament: White PLA from Flashforge
 
 I discovered that the model had issues by using the Repair -> Identify Self Intersecting Surfaces, so I wanted to try this again.
 

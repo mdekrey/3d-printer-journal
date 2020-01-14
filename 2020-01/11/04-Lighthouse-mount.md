@@ -1,8 +1,8 @@
 # Print
 
-Model: https://www.thingiverse.com/thing:2051721
+Model: https://www.thingiverse.com/thing:2147257
 Slicer: Flashprint
-Filament: White PL from Flashforge
+Filament: White PLA from Flashforge
 
 Settings:
 - Medium resolution
