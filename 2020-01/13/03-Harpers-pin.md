@@ -1,6 +1,6 @@
 # Print
 
-Model: Custom, built from a Harpers' logo in svg and OpenSCAD.
+Model: Custom, built from a Harper's logo in svg and OpenSCAD.
 Slicer: Simplify3d
 Filament: White PLA from Flashforge
 

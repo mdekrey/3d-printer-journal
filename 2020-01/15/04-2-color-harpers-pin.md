@@ -8,13 +8,9 @@ Settings:
 - Medium resolution
 - Infill 50%
 - Mostly default for Flashforge Creator Pro, using PLA, except:
-    - Extruder heat at 200C
-    - Bed at 60C
+    - White Extruder heat at 200C, Blue Extruder heat at 205
+    - White Bed at 60C
 
 # Results
 
-This turned out beautifully. I'll be working with this one from here.
-
-![Front][front]
-
-[front]: ./IMG_20200114_080632.jpg "Front"
+This ended up just as bad as the previous. I don't know what needs to change, but it's not increasing temperature on the blue.

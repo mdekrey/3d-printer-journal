@@ -6,15 +6,10 @@ Filament: White PLA from Flashforge and Blue PLA from Flashforge
 
 Settings:
 - Medium resolution
-- Infill 50%
 - Mostly default for Flashforge Creator Pro, using PLA, except:
     - Extruder heat at 200C
-    - Bed at 60C
+    - White raft at 60C
 
 # Results
 
-This turned out beautifully. I'll be working with this one from here.
-
-![Front][front]
-
-[front]: ./IMG_20200114_080632.jpg "Front"
+The raft didn't adhere quite as badly as before... it actually didn't adhere hardly at all. Unfortunately, the blue cylinder didn't form correctly, either; it continued to fray.
