@@ -16,3 +16,9 @@ Note: Same settings from [yesterday](../16/01-openforge-pillar.md) but using the
 # Results
 
 This turned out perfectly, with only one strip to sand, where it appears the supports adhered to the pillar. I need to try this again with the blue but the left extruder.
+
+The center pillar is this one. Compare with the left from yesterday's.
+
+![Front][front]
+
+[front]: ./79b85ba0-aee1-4bd7-80a4-b2fed3cd799e.jfif "Front"

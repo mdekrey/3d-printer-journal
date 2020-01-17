@@ -16,3 +16,9 @@ Settings:
 This print had "pillowing" on the top. Thin pillows are due to too few top layers. Since this was increased and it didn't appear thin, this isn't the cause. The other cause for pillowing is lack of part cooling.
 
 Examining my printer, I see that the factory cooling fan comes in from the left extruder, where my white PLA is loaded. The right extruder (blue PLA) probably gets significantly less cooling as a result. I'll have to switch sides of the filament later to see if this is what's causing all my problems with blue prints.
+
+The left pillar is this one. Compare with the left one from the next day.
+
+![Front][front]
+
+[front]: ./17/79b85ba0-aee1-4bd7-80a4-b2fed3cd799e.jfif "Front"

@@ -17,4 +17,10 @@ Note: Same settings from [yesterday](../16/01-openforge-pillar.md) but using the
 
 This turned out perfectly, with the same strip to sand. This confirms that the right extruder is not getting the proper cooling.
 
+The rightmost pillar is this one. Compare with the left one.
+
+![Front][front]
+
+[front]: ./79b85ba0-aee1-4bd7-80a4-b2fed3cd799e.jfif "Front"
+
 I've saved these settings as "Flashforge Creator PLA minis".
