@@ -13,3 +13,4 @@ Settings:
 
 # Results
 
+This turned out pretty well, though due to the supports, the curl didn't attach properly and was offset horizontally by a few millimeters. It works perfectly, though!
