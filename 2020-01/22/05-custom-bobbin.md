@@ -12,6 +12,7 @@ Model: https://www.thingiverse.com/thing:1798035
     reinforcement_height = 1.5 * wall;
 
 Slicer: Simplify3d
+
 Filament: Blue PLA from Flashforge
 
 Settings:

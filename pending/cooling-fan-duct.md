@@ -1,7 +1,9 @@
 # Print
 
 Model: https://www.thingiverse.com/thing:1675208
+
 Slicer: Simplify3d
+
 Filament: ABS
 
 Settings:

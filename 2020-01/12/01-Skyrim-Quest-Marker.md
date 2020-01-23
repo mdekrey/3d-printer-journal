@@ -1,7 +1,9 @@
 # Print
 
-Model: https://www.thingiverse.com/thing:3781911
+Model: https://www.thingiverse.com/thing:378191
+
 Slicer: Simplify3d
+
 Filament: White PLA from Flashforge
 
 Settings:

@@ -1,7 +1,9 @@
 # Print
 
 Model: https://www.myminifactory.com/object/3d-print-openforge-pillar-62308
+
 Slicer: Simplify3d
+
 Filament: White PLA from Flashforge
 
 Settings:

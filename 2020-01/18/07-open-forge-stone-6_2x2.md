@@ -1,7 +1,9 @@
 # Print
 
 Model: 6x OpenForge 2.0 stone floor, 2x2 (https://github.com/devonjones/openforge-tutorials/blob/master/sets/basic.md)
+
 Slicer: Simplify3d
+
 Filament: Concrete Grey PLA from Hatchbox
 
 Settings:

@@ -1,7 +1,9 @@
 # Print
 
 Model: https://www.thingiverse.com/thing:1527199 flat bottom version
+
 Slicer: Simplify3d
+
 Filament: White PLA from Flashforge
 
 Settings:

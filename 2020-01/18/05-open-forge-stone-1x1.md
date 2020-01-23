@@ -1,7 +1,9 @@
 # Print
 
 Model: OpenForge 2.0 stone floor and magnetic base, 1x1 (https://github.com/devonjones/openforge-tutorials/blob/master/sets/basic.md)
+
 Slicer: Simplify3d
+
 Filament: Blue PLA from Flashforge
 
 Settings:

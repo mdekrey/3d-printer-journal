@@ -1,7 +1,9 @@
 # Print
 
 Model: OpenForge 2.0 stone door, one of the double metal (standard) doors (https://github.com/devonjones/openforge-tutorials/blob/master/sets/basic.md)
+
 Slicer: Simplify3d
+
 Filament: Black PLA from Hatchbox
 
 Settings:

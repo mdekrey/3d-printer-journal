@@ -1,7 +1,9 @@
 # Print
 
 Model: https://www.thingiverse.com/thing:1776565
+
 Slicer: Simplify3d
+
 Filament: Blue PLA from Flashforge
 
 Settings:

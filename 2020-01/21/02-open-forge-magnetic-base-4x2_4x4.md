@@ -1,7 +1,9 @@
 # Print
 
 Model: OpenForge 2.0 magnetic bases with open lock and topless, 2x2 and 4x2 (https://github.com/devonjones/openforge-tutorials/blob/master/sets/basic.md)
+
 Slicer: Simplify3d
+
 Filament: Black PLA from Hatchbox
 
 Settin

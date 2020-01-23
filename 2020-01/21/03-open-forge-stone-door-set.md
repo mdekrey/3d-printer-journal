@@ -3,7 +3,9 @@
 Model: OpenForge 2.0 stone doors, as recommended by the basic set (https://github.com/devonjones/openforge-tutorials/blob/master/sets/basic.md)
     - Wooden: narrow, wide, 2x double
     - Metal (standard): narrow, wide, 2x double
+
 Slicer: Simplify3d
+
 Filament: Black PLA from Hatchbox
 
 Settings:

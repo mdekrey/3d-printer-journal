@@ -1,7 +1,9 @@
 # Print
 
-Model: https://www.thingiverse.com/thing:2051721
+Model: https://www.thingiverse.com/thing:205172
+
 Slicer: Simplify3d
+
 Filament: White PLA from Flashforge
 
 I discovered that the model had issues by using the Repair -> Identify Self Intersecting Surfaces, so I wanted to try this again.

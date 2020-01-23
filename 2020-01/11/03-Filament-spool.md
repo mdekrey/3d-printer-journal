@@ -1,7 +1,9 @@
 # Print
 
-Model: https://www.thingiverse.com/thing:714533
+Model: https://www.thingiverse.com/thing:71453
+
 Slicer: Flashprint
+
 Filament: Blue PLA from Flashforge
 
 Settings:
