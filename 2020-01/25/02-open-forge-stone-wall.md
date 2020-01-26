@@ -1,0 +1,1 @@
+As [yesterday's single wall](../24/01-open-forge-stone-wall.md).
