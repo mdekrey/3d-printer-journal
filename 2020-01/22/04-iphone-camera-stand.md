@@ -2,7 +2,7 @@
 
 Filament: Black PLA from Hatchbox
 
-Same as [the previous two](../17/03-iphone-camera-stand.md)
+Same as [the previous three](../17/03-iphone-camera-stand.md)
 
 # Results
 

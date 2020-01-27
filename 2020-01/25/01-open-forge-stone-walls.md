@@ -14,7 +14,7 @@ Settings:
     - 30% infill
     - Random perimeter start points
     - No supports needed
-    - No raft
+    - Raft
 
 # Results
 

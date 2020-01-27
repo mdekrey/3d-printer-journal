@@ -1,6 +1,6 @@
 # Print
 
-Model: OpenForge 2.0 stone floor for walls, 2x 4x4 (https://github.com/devonjones/openforge-tutorials/blob/master/sets/basic.md)
+Model: OpenForge 2.0 stone wall, 2x 2 inch wall (https://github.com/devonjones/openforge-tutorials/blob/master/sets/basic.md)
 
 Slicer: Simplify3d
 
@@ -14,8 +14,8 @@ Settings:
     - 30% infill
     - Random perimeter start points
     - No supports needed
-    - Raft
+    - No raft
 
 # Results
 
-This turned out beautifully.
+Tried out no raft to see how the walls separated. This turned out beautifully, so walls in the future in this filament should be done without rafts.

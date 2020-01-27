@@ -1,6 +1,6 @@
 # Print
 
-Model: OpenForge 2.0 stone floor for walls, 6x 2x2 (https://github.com/devonjones/openforge-tutorials/blob/master/sets/basic.md)
+Model: OpenForge 2.0 stone wall, 2 inch wall (https://github.com/devonjones/openforge-tutorials/blob/master/sets/basic.md)
 
 Slicer: Simplify3d
 
@@ -14,7 +14,7 @@ Settings:
     - 30% infill
     - Random perimeter start points
     - No supports needed
-    - No raft
+    - Raft
 
 # Results
 
