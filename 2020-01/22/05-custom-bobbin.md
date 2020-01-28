@@ -25,3 +25,5 @@ Settings:
 # Results
 
 This print turned out well; hopefully it works as expected!
+
+The bobbin was too thick for the caddy - the original actually had curved edges. I'll have to see if I can make it better, which will be tough given I was using the flat side as the base. Maybe just changing the height down will do it.
