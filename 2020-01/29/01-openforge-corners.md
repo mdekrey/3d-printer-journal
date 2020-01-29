@@ -19,6 +19,4 @@ Settings:
 
 # Results
 
-The skirt didn't look like it adhered quite as well, and the raft looks a little jumbled as a result. It was worked out by the top of the raft, so I'm not concerned about the print.
-
-... but then the print head jammed - I noticed a few hours through.
+The skirt and raft extruded as normal. I think the issues are fixed!

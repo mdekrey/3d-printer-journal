@@ -1,6 +1,6 @@
 # Print
 
-Model: OpenForge 2.0 stone, two 2x2 corners (https://github.com/devonjones/openforge-tutorials/blob/master/sets/basic.md)
+Model: OpenForge 2.0 stone, single 2x2 corner (https://github.com/devonjones/openforge-tutorials/blob/master/sets/basic.md)
 
 Slicer: Simplify3d
 
@@ -19,6 +19,4 @@ Settings:
 
 # Results
 
-The skirt didn't look like it adhered quite as well, and the raft looks a little jumbled as a result. It was worked out by the top of the raft, so I'm not concerned about the print.
-
-... but then the print head jammed - I noticed a few hours through.
+This took a little over 5 hours, but turned out well. Time to print out more corners...
