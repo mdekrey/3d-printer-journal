@@ -1,0 +1,1 @@
+As [yesterday's](../01/03-double-doorway.md).

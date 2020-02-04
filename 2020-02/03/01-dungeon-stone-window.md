@@ -1,7 +1,6 @@
 # Print
 
-Model: OpenForge 2.0 stone, 2 inch narrow door wall (https://github.com/devonjones/openforge-tutorials/blob/master/sets/basic.md)
-    - Manual supports, used auto-generated but removed the ones along the edge of the archway.
+Model: OpenForge 2.0 stone, 2 inch window (https://github.com/devonjones/openforge-tutorials/blob/master/sets/basic.md)
 
 Slicer: Simplify3d
 
@@ -29,4 +28,4 @@ Note: I moved this to the bathroom to try a more stable table.
 
 # Results
 
-This turned out well, as expected! Unfortunately, it turns out the extra supports were needed for a bit of the brick, but it's not noticable once it was cleaned up.
+This worked well.
