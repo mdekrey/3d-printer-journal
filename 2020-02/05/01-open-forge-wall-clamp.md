@@ -1,6 +1,6 @@
 # Print
 
-Model: 12x OpenForge 2.0 magnetic bases with open lock and topless, 1x1 (https://github.com/devonjones/openforge-tutorials/blob/master/sets/basic.md)
+Model: https://www.thingiverse.com/thing:2285045
 
 Slicer: Simplify3d
 
@@ -17,7 +17,3 @@ Settings:
     - No skirt
 
 # Results
-
-This worked fairly well, though some of the bases (5 of the 12) adhered too strongly to the raft - I'll need to work at it with pliers or sandpaper to remove them.
-
-This makes me wonder if the right fan isn't working as well as the left due to the broken bits on the diverter...

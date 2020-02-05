@@ -1,6 +1,6 @@
 # Print
 
-Model: https://www.thingiverse.com/thing:2676295
+Model: OpenForge 2.0 stone, 2 inch window (https://github.com/devonjones/openforge-tutorials/blob/master/sets/basic.md)
 
 Slicer: Simplify3d
 
@@ -15,8 +15,12 @@ Settings:
     - Random perimeter start points
     - Raft (because the grey concrete won't adhere properly otherwise, with tearing, etc.)
     - Support settings
-        - Upper vertical separation layers: 0
-        - Combine support every 3 layers
+        - Upper vertical separation layers: 3
+        - Lower vertical separation layers: 3
+        - Support Infill Angles: 45 and -45
+        - Dense support 3 layers, 80%
+        - Support infill: 15%
+        - Extra Inflation Distance: 0.1mm
     - Other settings
         - 100% bridge speed (to try to get it to adhere less)
 
@@ -24,6 +28,4 @@ Note: I moved this to the bathroom to try a more stable table.
 
 # Results
 
-Not all of the supports formed correctly (didn't stick due to too far away from the previous layer), and the vertical wall definitely did not, as 2 of its 3 layers went too fast to form. I'm letting it print through to the end, though.
-
-This didn't turn out very well. It still adhered too strongly to the surfaces (top especially) and ended up not working.
+This worked well, but are still adhering too much to the raft...

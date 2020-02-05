@@ -1,6 +1,6 @@
 # Print
 
-Model: 12x OpenForge 2.0 magnetic bases with open lock and topless, 1x1 (https://github.com/devonjones/openforge-tutorials/blob/master/sets/basic.md)
+Model: 1 of each size of BASE in https://www.thingiverse.com/thing:2955796
 
 Slicer: Simplify3d
 
@@ -18,6 +18,5 @@ Settings:
 
 # Results
 
-This worked fairly well, though some of the bases (5 of the 12) adhered too strongly to the raft - I'll need to work at it with pliers or sandpaper to remove them.
+This print went well, but the slot designed to hold the token is too large (even for cardstock) horizontally while not deep enough to hold it up. It would need to be used for simply a place marker, or use the plastic sheets that come with it. I'm not sure these will work.
 
-This makes me wonder if the right fan isn't working as well as the left due to the broken bits on the diverter...

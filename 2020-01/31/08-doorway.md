@@ -4,14 +4,14 @@ Model: OpenForge 2.0 stone, 2 inch standard door wall (https://github.com/devonj
 
 Slicer: Simplify3d
 
-Filament: Grey concrete PLA from Hatchbox
+Filament: Concrete Grey PLA from Hatchbox
 
 Settings:
 - 0.1mm resolution
 - Mostly default for Flashforge Creator Pro, using PLA, except:
     - Extruder heat at 205C
     - 200% for first layer, 4 top/bottom layers, 2 perimeter shells (As seen on [Fat Dragon Games' mini tutorial](https://www.youtube.com/watch?time_continue=716&v=AqEWl51s9Rw&feature=emb_logo))
-    - 20% infill
+    - 30% infill
     - Random perimeter start points
     - Raft (because the grey concrete won't adhere properly otherwise, with tearing, etc.)
     - Support settings
