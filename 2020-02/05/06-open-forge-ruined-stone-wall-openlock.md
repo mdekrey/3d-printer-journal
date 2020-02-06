@@ -1,6 +1,6 @@
 # Print
 
-Model: https://www.thingiverse.com/thing:2285045
+Model: https://www.thingiverse.com/thing:2353958, low-half.A, half-low.A, column.half.L, 2x OpenLock 4.0-stubby
 
 Slicer: Simplify3d
 
@@ -14,6 +14,7 @@ Settings:
     - 20% infill
     - Random perimeter start points
     - No supports
-    - No skirt
+    - Skirt, no raft
 
-# Results
+# Result
+
