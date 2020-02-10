@@ -18,3 +18,6 @@ Settings:
 
 # Result
 
+Having a skirt and a 0.1mm first layer was a bad idea - it resulted in a skirt that was near impossible to remove.
+
+However, the pieces look beautiful with their matte-bottom finish compared with the appearance of the raft. I had to scrape it off using a putty knife, but I'm fairly certain that has stripped much of the normal roughness of the blue mat on the printer bed off in those areas.
