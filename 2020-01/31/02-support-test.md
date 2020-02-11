@@ -10,7 +10,7 @@ Settings:
 - 0.1mm resolution
 - Mostly default for Flashforge Creator Pro, using PLA, except:
     - Extruder heat at 200C
-    - 200% for first layer, 4 top/bottom layers, 2 perimeter shells (As seen on [Fat Dragon Games' mini tutorial](https://www.youtube.com/watch?time_continue=716&v=AqEWl51s9Rw&feature=emb_logo))
+    - 200% for first layer, 4 top/bottom layers, 2 perimeter shells
     - 20% infill
     - Random perimeter start points
     - No raft
