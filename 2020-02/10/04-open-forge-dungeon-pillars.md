@@ -19,3 +19,7 @@ Settings:
         - 100% bridge speed (to try to get it to adhere less)
 
 # Results
+
+I accidentally broke one of these pulling it off of the printer, but I superglued it together.
+
+These turned out a little rough - the 0.2mm resolution was not a good choice. Slow and steady will be better in the future.
