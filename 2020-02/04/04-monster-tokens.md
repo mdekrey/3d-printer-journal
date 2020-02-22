@@ -20,3 +20,4 @@ Settings:
 
 This print went well, but the slot designed to hold the token is too large (even for cardstock) horizontally while not deep enough to hold it up. It would need to be used for simply a place marker, or use the plastic sheets that come with it. I'm not sure these will work.
 
+I later learned that a double-folded piece of cardstock works great for these - which makes for easy printing of a fold-over monster token.

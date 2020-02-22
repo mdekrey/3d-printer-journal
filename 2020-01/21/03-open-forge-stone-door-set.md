@@ -19,3 +19,5 @@ Settings:
 # Results
 
 The wide doors' hinge is open on the side, but that was expected from the slicer. I hope they work. One of the metal double doors fell over near the end of the print, ruining that one... but the rest were fine. I'll need to reprint that one.
+
+Updates: They work fine - I used the wire from the inside of a plastic-coated paperclip.

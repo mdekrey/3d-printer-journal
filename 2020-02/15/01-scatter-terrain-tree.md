@@ -21,7 +21,7 @@ Settings:
 
 I scaled this down because a) 12cm is HUGE and b) I really want a quick test. 35% would fit the base in 1 inch, ideal for scatter terrain.
 
-This puts it at 4.2cm tall, which I should continue to use for the other tree scatter terrain, when feasible.
+This puts it at 4.1cm tall, which I should continue to use for the other tree scatter terrain, when feasible.
 
 I accidentally printed this at 60C; apparently many of my presets still use this temperature.
 
