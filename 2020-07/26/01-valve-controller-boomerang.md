@@ -20,3 +20,5 @@ Settings:
 # Results
 
 In order to get successful results, I followed the process at [PLA Printing](../../processes/pla-printing.md).
+
+This turned out great. I'm very happy with my new prints after the long hiatus!
